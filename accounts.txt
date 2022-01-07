@@ -1,0 +1,20 @@
+@ AzarUnivAccounts
+pub-usr azarbaijan_university
+pub-usr se__madani
+pub-usr nahad_azaruniv
+
+@ AzarUnivFriends
+pub-usr hadi_atin
+pub-usr anjamsam
+pub-usr abolfazl.noora
+pub-usr payam__zaki
+prv-usr aminreza_fathi
+prv-usr arash.salahii
+prv-usr shervin._.sk
+prv-usr ishervin.pv
+prv-usr awrian.gh
+prv-usr sino_az
+prv-usr abi.tti
+prv-usr pooya.pishyar
+prv-usr amirmehmett
+prv-usr arash.salahii
