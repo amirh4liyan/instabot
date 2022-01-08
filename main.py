@@ -8,8 +8,15 @@ parser = argparse.ArgumentParser()
 group = parser.add_mutually_exclusive_group()
 parser.add_argument("-d", "--dontlogin", action="store_true",
                     help="prevent from login to account")
-group.add_argument("-f", "--follow", help="")
-group.add_argument("-u", "--unfollow", help="")
+group.add_argument("-f", "--follow",
+                    help="")
+group.add_argument("-u", "--unfollow",
+                    help="")
+parser.add_argument("-i", "--include",
+                    help="")
+parser.add_argument("-e", "--exceptions",
+                    help="")
+
 args = parser.parse_args()
 
 # Login
